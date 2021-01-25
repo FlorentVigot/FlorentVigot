@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, i'm Florent Vigot
 
 <!--
 **FlorentVigot/FlorentVigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=FlorentVigot)]
