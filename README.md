@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Les Stats GitHub de FlorentVigot](https://github-readme-stats.vercel.app/api?username=FlorentVigot)]
+![Les Stats GitHub de FlorentVigot](https://github-readme-stats.vercel.app/api?username=FlorentVigot)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentVigot&layout=compact)
