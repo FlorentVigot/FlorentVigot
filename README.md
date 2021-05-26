@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Florent Vigot
+### Hi there 👋, i'm Florent Vigot, a web developer full-stack !
 
 <!--
 **FlorentVigot/FlorentVigot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
